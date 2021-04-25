@@ -28,7 +28,7 @@ API Calculadora com Swagger UI
 1. Abra o terminal do seu computador. Se estiver no Windows, pode ser o Prompt de Comando ou PowerShell. Caso use o WSL no Windows, use o Windows Terminal, usando o Ubuntu ou qualquer distribuição suportada pelo WSL. 
 3. Altere o diretório de trabalho atual para o local em que deseja ter o código do módulo salvo no seu computador.
 4. Faça um clone desse repositório rodando: <br> `git clone https://github.com/VagnerBomJesus/api_calculadora_swagger_yaml.git`;
-5. Entre na pasta rodando pelo terminal: <br> `cd todo-lista-file-transfer`;
+5. Entre na pasta rodando pelo terminal: <br> `cd api_calculadora_swagger_yaml`;
 6. Rode `npm i` para instalar as dependências do projeto(exemplo: node_modules);
 7. Rode `node index.js` para iniciar o servidor de desenvolvimento.
 
