@@ -6,7 +6,7 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-instalação-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-estrutura-do-projeto">Instalação e execução</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-estrutura-do-projeto">Estrutura do projeto</a>&nbsp;&nbsp;&nbsp;
  </p> 
   
 <p align="center">
